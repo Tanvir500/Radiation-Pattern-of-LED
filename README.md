@@ -1,1 +1,3 @@
 # Radiation-Pattern-of-LED
+
+LED radiation patterns change with angle, significantly affecting the intensity and overall performance, making accurate measurement crucial for various applications. To analyze these patterns, we have placed a stepper motor on which, a light sensor has been attached. There was a fixed position for keeping the LED that is going to be examined. Then by rotating the motor, light intensity VS wavelength data were generated. We have controlled the whole system by Arduino nano. Later, the data was sent to MATLAB to get the plots. The whole setup is put in a box that covers it from all sides ensuring no light gets into it while testing.
